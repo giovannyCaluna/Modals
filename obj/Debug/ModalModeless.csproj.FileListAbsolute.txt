@@ -1,0 +1,12 @@
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\ModalModeless\bin\Debug\Dlg.exe.config
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\ModalModeless\bin\Debug\Dlg.exe
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\ModalModeless\bin\Debug\Dlg.pdb
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\ModalModeless\obj\Debug\ModalModeless.csproj.AssemblyReference.cache
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\ModalModeless\obj\Debug\ModalModeless.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\ModalModeless\obj\Debug\Dlg.MainForm.resources
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\ModalModeless\obj\Debug\Dlg.DialogWindow.resources
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\ModalModeless\obj\Debug\Dlg.Properties.Resources.resources
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\ModalModeless\obj\Debug\ModalModeless.csproj.GenerateResource.cache
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\ModalModeless\obj\Debug\ModalModeless.csproj.CoreCompileInputs.cache
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\ModalModeless\obj\Debug\Dlg.exe
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\ModalModeless\obj\Debug\Dlg.pdb
